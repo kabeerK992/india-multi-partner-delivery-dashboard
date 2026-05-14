@@ -1,4 +1,4 @@
-# 🚚 India Multi-Partner Delivery Dashboard
+# 🚚 India Delivery Logistics Multipatner Performnace Dashboard
 
 ![Dashboard Preview](dashboard_screenshot.png)
 
